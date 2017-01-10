@@ -1,8 +1,8 @@
 # MyGov-Hackathon
 This repository contains the submissions and progess on the projects
 
-Proposal for "Implement secure data transfer using steganography"
+Proposal for "Dashboard for E-Learning"
 
-Proposal for  "Dash board for E-Training"
+Proposal for  "Implement secure data transfer using steganography"
 
 Progess Made.
